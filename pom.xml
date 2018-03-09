@@ -14,8 +14,6 @@
     <module>mse-topology</module>
     <module>mse-tools</module>
     <module>mse-newTopology</module>
-    <module>flink-kafka</module>
-    <module>tttt</module>
   </modules>
 
   <dependencies>
